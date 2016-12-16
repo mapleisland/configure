@@ -1,3 +1,7 @@
+安装需要依赖   
+```
+shell> sudo yum install -y cmake,make,gcc,gcc-c++,bison, ncurses,ncurses-devel
+```
 ```
 cmake \
 -DCMAKE_INSTALL_PREFIX=/usr/local/mysql \
