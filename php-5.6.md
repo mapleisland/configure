@@ -1,3 +1,4 @@
+```
 ./configure \
 --prefix=/usr/local/php \
 --with-config-file-path=/usr/local/php/etc \
@@ -6,3 +7,4 @@
 --with-pdo-mysql=/usr/local/mysql \
 --with-iconv-dir=/usr/local \
 --enable-fpm \
+```
