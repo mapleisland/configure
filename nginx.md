@@ -1,3 +1,4 @@
+```
 ./configure \
 --prefix=/usr/local/nginx \
 --sbin-path=/usr/local/nginx/sbin/nginx \
@@ -7,3 +8,4 @@
 --with-zlib=/usr/local/src/zlib-1.2.8 \
 --with-http_ssl_module \
 --with-openssl=/usr/local/src/openssl-1.0.1t \
+```
