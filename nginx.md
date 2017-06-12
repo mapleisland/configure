@@ -4,8 +4,8 @@
 --sbin-path=/usr/local/nginx/sbin/nginx \
 --conf-path=/usr/local/nginx/conf/nginx.conf \
 --pid-path=/usr/local/nginx/logs/nginx.pid \
---with-pcre=/usr/local/src/pcre-8.39 \
---with-zlib=/usr/local/src/zlib-1.2.8 \
+--with-pcre=../pcre-8.39 \
+--with-zlib=../zlib-1.2.8 \
 --with-http_ssl_module \
---with-openssl=/usr/local/src/openssl-1.0.1t \
+--with-openssl=../openssl-1.0.1t \
 ```
